@@ -1,7 +1,7 @@
 
 # My-Profile
 Important information about me!
-https://dracon75.github.io/My-Example-Profile/
+https://dracon75.github.io/My-Profile/
 
 # Tech Used
 javascript
